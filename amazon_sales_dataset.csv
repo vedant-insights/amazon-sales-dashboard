@@ -1,0 +1,1001 @@
+Order ID,Order Date,Product Name,Category,Price,Quantity,Customer Location,Payment Method,Total Sales
+1001,1/1/2023,Camera,Electronics,29125,4,Hyderabad,Credit Card,116500
+1002,1/2/2023,Shoes,Accessories,16004,4,Bangalore,UPI,64016
+1003,1/3/2023,T-shirt,Accessories,24589,4,Pune,Debit Card,98356
+1004,1/4/2023,Watch,Electronics,36987,3,Mumbai,UPI,110961
+1005,1/5/2023,Camera,Electronics,802,1,Mumbai,Debit Card,802
+1006,1/6/2023,Speaker,Accessories,31963,4,Pune,UPI,127852
+1007,1/7/2023,Headphones,Fashion,45412,2,Pune,Debit Card,90824
+1008,1/8/2023,Camera,Electronics,29759,2,Mumbai,Debit Card,59518
+1009,1/9/2023,T-shirt,Accessories,43323,2,Pune,UPI,86646
+1010,1/10/2023,Watch,Fashion,37708,2,Delhi,UPI,75416
+1011,1/11/2023,Shoes,Electronics,31159,3,Bangalore,Debit Card,93477
+1012,1/12/2023,T-shirt,Fashion,36340,4,Bangalore,Cash on Delivery,145360
+1013,1/13/2023,T-shirt,Accessories,32390,1,Bangalore,Credit Card,32390
+1014,1/14/2023,Headphones,Electronics,14098,4,Delhi,Cash on Delivery,56392
+1015,1/15/2023,Backpack,Fashion,47555,3,Pune,Cash on Delivery,142665
+1016,1/16/2023,Watch,Electronics,47233,2,Hyderabad,UPI,94466
+1017,1/17/2023,Smartphone,Fashion,20008,3,Pune,Credit Card,60024
+1018,1/18/2023,T-shirt,Accessories,42787,4,Mumbai,Cash on Delivery,171148
+1019,1/19/2023,Backpack,Accessories,13880,1,Chennai,UPI,13880
+1020,1/20/2023,Smartphone,Electronics,27484,3,Bangalore,Cash on Delivery,82452
+1021,1/21/2023,Watch,Fashion,45133,1,Pune,Cash on Delivery,45133
+1022,1/22/2023,Laptop,Electronics,8625,3,Hyderabad,UPI,25875
+1023,1/23/2023,Speaker,Electronics,36559,1,Mumbai,UPI,36559
+1024,1/24/2023,Backpack,Fashion,4533,1,Delhi,UPI,4533
+1025,1/25/2023,Tablet,Fashion,38373,2,Delhi,Credit Card,76746
+1026,1/26/2023,Laptop,Fashion,17587,1,Hyderabad,Cash on Delivery,17587
+1027,1/27/2023,Speaker,Accessories,41401,2,Mumbai,UPI,82802
+1028,1/28/2023,Headphones,Electronics,6204,4,Bangalore,Debit Card,24816
+1029,1/29/2023,Camera,Electronics,8348,4,Pune,Cash on Delivery,33392
+1030,1/30/2023,Shoes,Accessories,22092,2,Mumbai,Debit Card,44184
+1031,1/31/2023,Tablet,Fashion,46243,2,Delhi,Credit Card,92486
+1032,2/1/2023,Headphones,Accessories,7424,3,Hyderabad,UPI,22272
+1033,2/2/2023,Watch,Accessories,27708,3,Hyderabad,Debit Card,83124
+1034,2/3/2023,Headphones,Accessories,20114,3,Pune,Credit Card,60342
+1035,2/4/2023,Camera,Electronics,988,4,Hyderabad,UPI,3952
+1036,2/5/2023,Watch,Accessories,40382,3,Hyderabad,Debit Card,121146
+1037,2/6/2023,Tablet,Electronics,26423,1,Mumbai,Debit Card,26423
+1038,2/7/2023,Camera,Electronics,49008,1,Bangalore,Credit Card,49008
+1039,2/8/2023,Smartphone,Electronics,36441,3,Pune,UPI,109323
+1040,2/9/2023,Shoes,Fashion,29665,1,Mumbai,UPI,29665
+1041,2/10/2023,Tablet,Electronics,2167,4,Bangalore,Debit Card,8668
+1042,2/11/2023,Smartphone,Electronics,26713,1,Mumbai,Debit Card,26713
+1043,2/12/2023,Speaker,Fashion,4614,4,Chennai,Debit Card,18456
+1044,2/13/2023,Tablet,Electronics,36821,2,Mumbai,UPI,73642
+1045,2/14/2023,Speaker,Accessories,8261,2,Hyderabad,Credit Card,16522
+1046,2/15/2023,Watch,Accessories,31616,2,Bangalore,Credit Card,63232
+1047,2/16/2023,Smartphone,Electronics,34268,2,Pune,UPI,68536
+1048,2/17/2023,Shoes,Fashion,48906,1,Pune,Cash on Delivery,48906
+1049,2/18/2023,Camera,Accessories,25926,3,Bangalore,Credit Card,77778
+1050,2/19/2023,T-shirt,Fashion,18272,1,Hyderabad,Debit Card,18272
+1051,2/20/2023,Headphones,Fashion,38718,4,Delhi,Cash on Delivery,154872
+1052,2/21/2023,Laptop,Accessories,4212,1,Mumbai,Cash on Delivery,4212
+1053,2/22/2023,Shoes,Fashion,1867,1,Hyderabad,Credit Card,1867
+1054,2/23/2023,Smartphone,Accessories,41457,4,Chennai,Cash on Delivery,165828
+1055,2/24/2023,T-shirt,Fashion,42281,2,Bangalore,Cash on Delivery,84562
+1056,2/25/2023,Shoes,Accessories,26700,2,Mumbai,Credit Card,53400
+1057,2/26/2023,Smartphone,Electronics,4226,2,Pune,Credit Card,8452
+1058,2/27/2023,Backpack,Accessories,24116,3,Delhi,Cash on Delivery,72348
+1059,2/28/2023,Backpack,Accessories,28223,4,Chennai,Debit Card,112892
+1060,3/1/2023,Speaker,Accessories,38074,4,Pune,UPI,152296
+1061,3/2/2023,Shoes,Accessories,35458,1,Bangalore,Cash on Delivery,35458
+1062,3/3/2023,Backpack,Fashion,9608,3,Mumbai,Cash on Delivery,28824
+1063,3/4/2023,Smartphone,Electronics,12678,2,Bangalore,Debit Card,25356
+1064,3/5/2023,Speaker,Accessories,36143,3,Mumbai,Cash on Delivery,108429
+1065,3/6/2023,Smartphone,Fashion,31824,4,Hyderabad,Cash on Delivery,127296
+1066,3/7/2023,Speaker,Electronics,38860,4,Delhi,UPI,155440
+1067,3/8/2023,Shoes,Electronics,18324,1,Hyderabad,UPI,18324
+1068,3/9/2023,T-shirt,Electronics,45860,1,Hyderabad,UPI,45860
+1069,3/10/2023,Camera,Electronics,9427,4,Bangalore,Credit Card,37708
+1070,3/11/2023,Tablet,Accessories,28644,2,Delhi,Credit Card,57288
+1071,3/12/2023,T-shirt,Accessories,31510,2,Mumbai,UPI,63020
+1072,3/13/2023,Watch,Fashion,22943,3,Mumbai,UPI,68829
+1073,3/14/2023,Smartphone,Fashion,14937,4,Chennai,Credit Card,59748
+1074,3/15/2023,Watch,Fashion,44798,4,Pune,Debit Card,179192
+1075,3/16/2023,T-shirt,Electronics,40278,2,Chennai,Cash on Delivery,80556
+1076,3/17/2023,Speaker,Electronics,11707,2,Chennai,Cash on Delivery,23414
+1077,3/18/2023,Tablet,Accessories,26037,4,Mumbai,UPI,104148
+1078,3/19/2023,Tablet,Electronics,36257,1,Bangalore,Debit Card,36257
+1079,3/20/2023,Laptop,Electronics,12540,4,Hyderabad,Credit Card,50160
+1080,3/21/2023,Tablet,Electronics,42486,4,Hyderabad,UPI,169944
+1081,3/22/2023,Camera,Fashion,23112,2,Hyderabad,Debit Card,46224
+1082,3/23/2023,Tablet,Fashion,28941,2,Delhi,Debit Card,57882
+1083,3/24/2023,T-shirt,Accessories,6971,1,Mumbai,Debit Card,6971
+1084,3/25/2023,Laptop,Electronics,36131,1,Bangalore,Credit Card,36131
+1085,3/26/2023,T-shirt,Electronics,43961,3,Delhi,Credit Card,131883
+1086,3/27/2023,T-shirt,Accessories,27023,4,Pune,Cash on Delivery,108092
+1087,3/28/2023,Headphones,Electronics,31848,2,Bangalore,Cash on Delivery,63696
+1088,3/29/2023,Laptop,Electronics,1677,1,Chennai,Debit Card,1677
+1089,3/30/2023,T-shirt,Fashion,5260,3,Bangalore,Debit Card,15780
+1090,3/31/2023,Headphones,Accessories,33279,3,Bangalore,Credit Card,99837
+1091,4/1/2023,Headphones,Accessories,22136,2,Hyderabad,Cash on Delivery,44272
+1092,4/2/2023,Laptop,Accessories,16853,2,Bangalore,Debit Card,33706
+1093,4/3/2023,Watch,Accessories,12056,3,Chennai,Cash on Delivery,36168
+1094,4/4/2023,Speaker,Fashion,28098,1,Chennai,Cash on Delivery,28098
+1095,4/5/2023,Camera,Fashion,12063,3,Mumbai,Debit Card,36189
+1096,4/6/2023,Speaker,Electronics,47319,4,Bangalore,Credit Card,189276
+1097,4/7/2023,Tablet,Electronics,44290,4,Hyderabad,Debit Card,177160
+1098,4/8/2023,Camera,Electronics,8734,2,Bangalore,Debit Card,17468
+1099,4/9/2023,Tablet,Electronics,26019,1,Pune,Cash on Delivery,26019
+1100,4/10/2023,T-shirt,Fashion,27466,1,Pune,Debit Card,27466
+1101,4/11/2023,Smartphone,Accessories,16673,4,Hyderabad,Credit Card,66692
+1102,4/12/2023,Laptop,Fashion,27487,3,Mumbai,Debit Card,82461
+1103,4/13/2023,Camera,Electronics,13678,2,Mumbai,Credit Card,27356
+1104,4/14/2023,Camera,Fashion,39838,3,Chennai,Credit Card,119514
+1105,4/15/2023,T-shirt,Accessories,25096,3,Chennai,Cash on Delivery,75288
+1106,4/16/2023,Watch,Accessories,33674,3,Delhi,UPI,101022
+1107,4/17/2023,Headphones,Fashion,42474,1,Hyderabad,UPI,42474
+1108,4/18/2023,T-shirt,Fashion,4931,4,Bangalore,Cash on Delivery,19724
+1109,4/19/2023,Backpack,Fashion,28264,1,Hyderabad,Debit Card,28264
+1110,4/20/2023,Headphones,Electronics,22127,4,Delhi,Cash on Delivery,88508
+1111,4/21/2023,Laptop,Fashion,39810,2,Chennai,Credit Card,79620
+1112,4/22/2023,Headphones,Fashion,9406,2,Hyderabad,UPI,18812
+1113,4/23/2023,Watch,Fashion,37414,3,Hyderabad,Cash on Delivery,112242
+1114,4/24/2023,Headphones,Accessories,45314,4,Chennai,Debit Card,181256
+1115,4/25/2023,Laptop,Accessories,45879,4,Delhi,Cash on Delivery,183516
+1116,4/26/2023,Watch,Electronics,13576,4,Chennai,UPI,54304
+1117,4/27/2023,Speaker,Electronics,49792,3,Mumbai,Cash on Delivery,149376
+1118,4/28/2023,Camera,Accessories,38150,3,Bangalore,Cash on Delivery,114450
+1119,4/29/2023,Camera,Accessories,47381,2,Chennai,UPI,94762
+1120,4/30/2023,Tablet,Accessories,46913,1,Delhi,Credit Card,46913
+1121,5/1/2023,Speaker,Fashion,6512,4,Pune,Credit Card,26048
+1122,5/2/2023,Speaker,Fashion,7651,4,Mumbai,UPI,30604
+1123,5/3/2023,Headphones,Accessories,28711,1,Pune,Cash on Delivery,28711
+1124,5/4/2023,Camera,Fashion,27617,4,Chennai,UPI,110468
+1125,5/5/2023,Laptop,Fashion,36878,3,Mumbai,Credit Card,110634
+1126,5/6/2023,Shoes,Electronics,43152,3,Bangalore,Debit Card,129456
+1127,5/7/2023,Shoes,Accessories,7394,4,Chennai,Cash on Delivery,29576
+1128,5/8/2023,Watch,Accessories,13967,3,Bangalore,Credit Card,41901
+1129,5/9/2023,Camera,Fashion,31510,3,Hyderabad,Cash on Delivery,94530
+1130,5/10/2023,Camera,Accessories,49757,4,Pune,UPI,199028
+1131,5/11/2023,Shoes,Electronics,43141,2,Mumbai,Debit Card,86282
+1132,5/12/2023,Camera,Electronics,12789,1,Bangalore,UPI,12789
+1133,5/13/2023,Headphones,Electronics,45476,3,Delhi,Debit Card,136428
+1134,5/14/2023,Backpack,Accessories,44096,2,Bangalore,Cash on Delivery,88192
+1135,5/15/2023,Smartphone,Accessories,23671,3,Delhi,Cash on Delivery,71013
+1136,5/16/2023,Speaker,Accessories,35405,3,Chennai,UPI,106215
+1137,5/17/2023,Tablet,Accessories,21329,1,Mumbai,Debit Card,21329
+1138,5/18/2023,Watch,Accessories,34554,3,Bangalore,Debit Card,103662
+1139,5/19/2023,Backpack,Electronics,48978,1,Bangalore,Cash on Delivery,48978
+1140,5/20/2023,Shoes,Fashion,44639,1,Mumbai,UPI,44639
+1141,5/21/2023,Speaker,Electronics,49213,1,Bangalore,Debit Card,49213
+1142,5/22/2023,Camera,Accessories,30234,2,Delhi,Cash on Delivery,60468
+1143,5/23/2023,Tablet,Electronics,7552,4,Bangalore,Credit Card,30208
+1144,5/24/2023,Camera,Accessories,4154,2,Pune,UPI,8308
+1145,5/25/2023,Laptop,Accessories,23986,4,Chennai,Credit Card,95944
+1146,5/26/2023,Laptop,Electronics,19243,4,Hyderabad,UPI,76972
+1147,5/27/2023,Tablet,Accessories,48868,1,Delhi,Cash on Delivery,48868
+1148,5/28/2023,Tablet,Fashion,24989,3,Pune,Debit Card,74967
+1149,5/29/2023,Shoes,Accessories,9136,1,Chennai,Debit Card,9136
+1150,5/30/2023,Tablet,Fashion,6941,3,Mumbai,Debit Card,20823
+1151,5/31/2023,Headphones,Fashion,25111,4,Delhi,UPI,100444
+1152,6/1/2023,Camera,Accessories,42935,1,Hyderabad,Cash on Delivery,42935
+1153,6/2/2023,Backpack,Electronics,12649,3,Chennai,Credit Card,37947
+1154,6/3/2023,T-shirt,Fashion,35066,2,Hyderabad,Cash on Delivery,70132
+1155,6/4/2023,Tablet,Electronics,42868,3,Mumbai,Credit Card,128604
+1156,6/5/2023,Watch,Fashion,22175,1,Mumbai,UPI,22175
+1157,6/6/2023,Laptop,Accessories,5995,2,Delhi,UPI,11990
+1158,6/7/2023,Headphones,Accessories,43168,3,Bangalore,Credit Card,129504
+1159,6/8/2023,Speaker,Fashion,14173,3,Mumbai,Credit Card,42519
+1160,6/9/2023,T-shirt,Accessories,11630,3,Chennai,Credit Card,34890
+1161,6/10/2023,Backpack,Fashion,23168,3,Bangalore,Cash on Delivery,69504
+1162,6/11/2023,T-shirt,Accessories,15722,3,Pune,Credit Card,47166
+1163,6/12/2023,Tablet,Electronics,24169,2,Hyderabad,UPI,48338
+1164,6/13/2023,Shoes,Accessories,34568,4,Bangalore,UPI,138272
+1165,6/14/2023,Laptop,Electronics,23753,2,Hyderabad,Debit Card,47506
+1166,6/15/2023,Laptop,Accessories,9935,2,Bangalore,Credit Card,19870
+1167,6/16/2023,Speaker,Electronics,29052,2,Pune,Cash on Delivery,58104
+1168,6/17/2023,Shoes,Accessories,37884,4,Mumbai,Cash on Delivery,151536
+1169,6/18/2023,Camera,Electronics,16893,1,Pune,Cash on Delivery,16893
+1170,6/19/2023,Smartphone,Fashion,11117,4,Mumbai,Debit Card,44468
+1171,6/20/2023,Headphones,Fashion,39020,2,Mumbai,UPI,78040
+1172,6/21/2023,Laptop,Electronics,10352,3,Hyderabad,Cash on Delivery,31056
+1173,6/22/2023,Watch,Accessories,31901,3,Chennai,UPI,95703
+1174,6/23/2023,Laptop,Electronics,6795,2,Pune,Debit Card,13590
+1175,6/24/2023,T-shirt,Accessories,36493,3,Bangalore,Credit Card,109479
+1176,6/25/2023,Laptop,Fashion,34584,2,Pune,Credit Card,69168
+1177,6/26/2023,Laptop,Accessories,45605,3,Hyderabad,Credit Card,136815
+1178,6/27/2023,Smartphone,Fashion,40075,4,Mumbai,Cash on Delivery,160300
+1179,6/28/2023,Smartphone,Accessories,36951,1,Hyderabad,Credit Card,36951
+1180,6/29/2023,Backpack,Accessories,7727,1,Delhi,Cash on Delivery,7727
+1181,6/30/2023,Camera,Accessories,32410,4,Delhi,Debit Card,129640
+1182,7/1/2023,Watch,Electronics,36541,4,Bangalore,Debit Card,146164
+1183,7/2/2023,Laptop,Electronics,23884,2,Hyderabad,Cash on Delivery,47768
+1184,7/3/2023,Laptop,Fashion,645,2,Bangalore,UPI,1290
+1185,7/4/2023,Headphones,Fashion,38278,2,Bangalore,Credit Card,76556
+1186,7/5/2023,Smartphone,Electronics,16535,3,Delhi,Credit Card,49605
+1187,7/6/2023,Watch,Fashion,3540,2,Bangalore,Credit Card,7080
+1188,7/7/2023,Speaker,Electronics,42922,4,Delhi,Cash on Delivery,171688
+1189,7/8/2023,Backpack,Accessories,26660,1,Mumbai,Debit Card,26660
+1190,7/9/2023,Camera,Fashion,18133,3,Hyderabad,Credit Card,54399
+1191,7/10/2023,Shoes,Fashion,29844,2,Bangalore,Debit Card,59688
+1192,7/11/2023,Camera,Electronics,17514,3,Delhi,Credit Card,52542
+1193,7/12/2023,T-shirt,Fashion,15496,3,Pune,Credit Card,46488
+1194,7/13/2023,Laptop,Fashion,49604,2,Bangalore,Cash on Delivery,99208
+1195,7/14/2023,Backpack,Accessories,42121,3,Chennai,UPI,126363
+1196,7/15/2023,T-shirt,Fashion,12195,1,Mumbai,Cash on Delivery,12195
+1197,7/16/2023,Watch,Accessories,3352,4,Mumbai,Credit Card,13408
+1198,7/17/2023,Shoes,Electronics,16514,4,Pune,Credit Card,66056
+1199,7/18/2023,Smartphone,Fashion,27542,1,Delhi,UPI,27542
+1200,7/19/2023,Backpack,Accessories,34255,3,Bangalore,Debit Card,102765
+1201,7/20/2023,Backpack,Electronics,40890,2,Delhi,Debit Card,81780
+1202,7/21/2023,Laptop,Fashion,24211,3,Mumbai,Credit Card,72633
+1203,7/22/2023,Tablet,Electronics,26622,1,Delhi,Debit Card,26622
+1204,7/23/2023,Backpack,Fashion,9660,3,Mumbai,Credit Card,28980
+1205,7/24/2023,Headphones,Electronics,27713,4,Delhi,UPI,110852
+1206,7/25/2023,Shoes,Electronics,39920,3,Pune,UPI,119760
+1207,7/26/2023,Shoes,Accessories,7921,1,Hyderabad,Credit Card,7921
+1208,7/27/2023,Headphones,Electronics,21900,4,Pune,UPI,87600
+1209,7/28/2023,Speaker,Fashion,34037,3,Pune,Cash on Delivery,102111
+1210,7/29/2023,Headphones,Fashion,18227,3,Hyderabad,Cash on Delivery,54681
+1211,7/30/2023,Headphones,Accessories,47382,4,Hyderabad,UPI,189528
+1212,7/31/2023,Shoes,Fashion,4858,2,Bangalore,Credit Card,9716
+1213,8/1/2023,Camera,Fashion,28982,4,Bangalore,Credit Card,115928
+1214,8/2/2023,Shoes,Fashion,32617,2,Pune,UPI,65234
+1215,8/3/2023,Tablet,Electronics,23664,1,Pune,Debit Card,23664
+1216,8/4/2023,Laptop,Electronics,32410,1,Mumbai,Cash on Delivery,32410
+1217,8/5/2023,T-shirt,Fashion,32996,4,Mumbai,Debit Card,131984
+1218,8/6/2023,Camera,Accessories,44811,4,Bangalore,Credit Card,179244
+1219,8/7/2023,Smartphone,Electronics,29871,1,Chennai,Credit Card,29871
+1220,8/8/2023,T-shirt,Accessories,38967,2,Chennai,Debit Card,77934
+1221,8/9/2023,Laptop,Fashion,18125,1,Bangalore,UPI,18125
+1222,8/10/2023,Tablet,Fashion,34393,4,Mumbai,Debit Card,137572
+1223,8/11/2023,Tablet,Electronics,11293,1,Mumbai,Debit Card,11293
+1224,8/12/2023,Smartphone,Fashion,31507,4,Chennai,Cash on Delivery,126028
+1225,8/13/2023,Camera,Electronics,26266,4,Delhi,Cash on Delivery,105064
+1226,8/14/2023,Speaker,Fashion,40032,1,Delhi,Debit Card,40032
+1227,8/15/2023,Headphones,Fashion,12823,2,Mumbai,Debit Card,25646
+1228,8/16/2023,Camera,Electronics,46299,3,Delhi,Credit Card,138897
+1229,8/17/2023,Speaker,Electronics,47320,1,Hyderabad,Cash on Delivery,47320
+1230,8/18/2023,Tablet,Electronics,45908,3,Bangalore,Cash on Delivery,137724
+1231,8/19/2023,Shoes,Fashion,8343,1,Bangalore,Credit Card,8343
+1232,8/20/2023,Laptop,Fashion,14710,3,Mumbai,UPI,44130
+1233,8/21/2023,Smartphone,Accessories,16956,2,Pune,Cash on Delivery,33912
+1234,8/22/2023,Laptop,Electronics,31867,2,Chennai,Cash on Delivery,63734
+1235,8/23/2023,Watch,Fashion,10606,1,Mumbai,UPI,10606
+1236,8/24/2023,Watch,Fashion,38457,4,Delhi,Cash on Delivery,153828
+1237,8/25/2023,Camera,Electronics,2972,3,Chennai,Cash on Delivery,8916
+1238,8/26/2023,Tablet,Accessories,7204,4,Pune,UPI,28816
+1239,8/27/2023,Tablet,Electronics,4213,4,Delhi,UPI,16852
+1240,8/28/2023,Headphones,Accessories,5551,4,Hyderabad,Debit Card,22204
+1241,8/29/2023,Headphones,Fashion,11256,2,Delhi,Credit Card,22512
+1242,8/30/2023,Headphones,Accessories,2975,1,Hyderabad,Credit Card,2975
+1243,8/31/2023,Shoes,Fashion,36878,1,Chennai,UPI,36878
+1244,9/1/2023,T-shirt,Electronics,4755,2,Hyderabad,UPI,9510
+1245,9/2/2023,Backpack,Electronics,14984,2,Chennai,Cash on Delivery,29968
+1246,9/3/2023,T-shirt,Electronics,35003,1,Chennai,Debit Card,35003
+1247,9/4/2023,Laptop,Accessories,8758,4,Chennai,Debit Card,35032
+1248,9/5/2023,T-shirt,Fashion,41247,3,Chennai,UPI,123741
+1249,9/6/2023,Shoes,Electronics,35696,3,Chennai,Cash on Delivery,107088
+1250,9/7/2023,Laptop,Electronics,45613,3,Delhi,Cash on Delivery,136839
+1251,9/8/2023,T-shirt,Fashion,40694,4,Chennai,Credit Card,162776
+1252,9/9/2023,Shoes,Electronics,9033,1,Delhi,Credit Card,9033
+1253,9/10/2023,Backpack,Fashion,33081,2,Chennai,Cash on Delivery,66162
+1254,9/11/2023,T-shirt,Fashion,5749,1,Hyderabad,Credit Card,5749
+1255,9/12/2023,Shoes,Fashion,19701,4,Chennai,UPI,78804
+1256,9/13/2023,Headphones,Fashion,10186,2,Pune,Cash on Delivery,20372
+1257,9/14/2023,Tablet,Fashion,47377,4,Chennai,Credit Card,189508
+1258,9/15/2023,Headphones,Accessories,32507,3,Chennai,Debit Card,97521
+1259,9/16/2023,Tablet,Electronics,1161,3,Hyderabad,Cash on Delivery,3483
+1260,9/17/2023,Smartphone,Accessories,45343,4,Bangalore,Cash on Delivery,181372
+1261,9/18/2023,Smartphone,Electronics,30637,2,Hyderabad,Debit Card,61274
+1262,9/19/2023,Smartphone,Accessories,48056,2,Pune,UPI,96112
+1263,9/20/2023,Backpack,Fashion,43328,1,Bangalore,Debit Card,43328
+1264,9/21/2023,Headphones,Electronics,49104,3,Mumbai,Cash on Delivery,147312
+1265,9/22/2023,Tablet,Electronics,11026,1,Mumbai,UPI,11026
+1266,9/23/2023,Shoes,Accessories,3874,1,Pune,Credit Card,3874
+1267,9/24/2023,Laptop,Accessories,26092,4,Hyderabad,Credit Card,104368
+1268,9/25/2023,Shoes,Electronics,29482,4,Delhi,Credit Card,117928
+1269,9/26/2023,Laptop,Accessories,707,1,Pune,Cash on Delivery,707
+1270,9/27/2023,Watch,Accessories,35933,3,Bangalore,Debit Card,107799
+1271,9/28/2023,Shoes,Accessories,23697,4,Bangalore,UPI,94788
+1272,9/29/2023,T-shirt,Fashion,33900,1,Chennai,Credit Card,33900
+1273,9/30/2023,T-shirt,Fashion,3583,1,Mumbai,UPI,3583
+1274,10/1/2023,Camera,Accessories,29828,1,Bangalore,Cash on Delivery,29828
+1275,10/2/2023,Headphones,Accessories,46979,1,Pune,Credit Card,46979
+1276,10/3/2023,Laptop,Fashion,43391,1,Bangalore,Cash on Delivery,43391
+1277,10/4/2023,Laptop,Fashion,20603,1,Pune,Debit Card,20603
+1278,10/5/2023,Headphones,Electronics,40391,4,Delhi,Cash on Delivery,161564
+1279,10/6/2023,Backpack,Electronics,11254,3,Chennai,Cash on Delivery,33762
+1280,10/7/2023,Camera,Fashion,34947,1,Mumbai,Debit Card,34947
+1281,10/8/2023,Backpack,Accessories,16401,2,Bangalore,UPI,32802
+1282,10/9/2023,Backpack,Accessories,33504,4,Pune,Debit Card,134016
+1283,10/10/2023,Backpack,Accessories,7946,4,Hyderabad,Debit Card,31784
+1284,10/11/2023,Headphones,Accessories,37711,1,Mumbai,Cash on Delivery,37711
+1285,10/12/2023,Backpack,Electronics,48731,4,Delhi,UPI,194924
+1286,10/13/2023,T-shirt,Fashion,29801,1,Pune,Credit Card,29801
+1287,10/14/2023,Smartphone,Accessories,26616,3,Chennai,Debit Card,79848
+1288,10/15/2023,Watch,Electronics,41823,3,Chennai,UPI,125469
+1289,10/16/2023,Laptop,Accessories,19252,4,Delhi,Debit Card,77008
+1290,10/17/2023,Laptop,Fashion,32876,4,Delhi,Debit Card,131504
+1291,10/18/2023,Watch,Electronics,17169,2,Chennai,Debit Card,34338
+1292,10/19/2023,Headphones,Fashion,33416,4,Bangalore,Debit Card,133664
+1293,10/20/2023,Shoes,Fashion,13895,2,Bangalore,Cash on Delivery,27790
+1294,10/21/2023,Headphones,Electronics,20921,3,Pune,UPI,62763
+1295,10/22/2023,Laptop,Electronics,26842,3,Hyderabad,UPI,80526
+1296,10/23/2023,Laptop,Electronics,5395,1,Pune,UPI,5395
+1297,10/24/2023,Watch,Electronics,11523,3,Hyderabad,Debit Card,34569
+1298,10/25/2023,Backpack,Electronics,11199,2,Delhi,Cash on Delivery,22398
+1299,10/26/2023,Headphones,Electronics,10215,4,Mumbai,Debit Card,40860
+1300,10/27/2023,Tablet,Electronics,19669,1,Pune,Debit Card,19669
+1301,10/28/2023,Watch,Accessories,16663,2,Pune,UPI,33326
+1302,10/29/2023,T-shirt,Fashion,6282,4,Hyderabad,Debit Card,25128
+1303,10/30/2023,Laptop,Electronics,23141,1,Delhi,Credit Card,23141
+1304,10/31/2023,Watch,Accessories,19292,3,Delhi,Debit Card,57876
+1305,11/1/2023,Headphones,Accessories,49992,2,Hyderabad,Credit Card,99984
+1306,11/2/2023,Laptop,Accessories,36085,4,Delhi,Debit Card,144340
+1307,11/3/2023,Shoes,Fashion,31182,1,Chennai,Cash on Delivery,31182
+1308,11/4/2023,Watch,Electronics,48364,1,Bangalore,Cash on Delivery,48364
+1309,11/5/2023,Camera,Accessories,19380,3,Chennai,UPI,58140
+1310,11/6/2023,Laptop,Fashion,38567,4,Mumbai,Debit Card,154268
+1311,11/7/2023,Headphones,Fashion,43185,3,Pune,Credit Card,129555
+1312,11/8/2023,Smartphone,Fashion,18573,3,Mumbai,Credit Card,55719
+1313,11/9/2023,Tablet,Accessories,36535,4,Pune,Debit Card,146140
+1314,11/10/2023,Speaker,Electronics,37674,4,Bangalore,Credit Card,150696
+1315,11/11/2023,Backpack,Accessories,25337,4,Delhi,Cash on Delivery,101348
+1316,11/12/2023,Speaker,Accessories,18326,2,Chennai,Credit Card,36652
+1317,11/13/2023,Headphones,Electronics,25481,4,Hyderabad,UPI,101924
+1318,11/14/2023,T-shirt,Electronics,10882,1,Chennai,Cash on Delivery,10882
+1319,11/15/2023,T-shirt,Electronics,4937,3,Bangalore,Cash on Delivery,14811
+1320,11/16/2023,Smartphone,Fashion,5935,2,Mumbai,Cash on Delivery,11870
+1321,11/17/2023,Backpack,Electronics,25319,4,Hyderabad,Debit Card,101276
+1322,11/18/2023,Camera,Accessories,37375,2,Delhi,Debit Card,74750
+1323,11/19/2023,Smartphone,Electronics,32482,4,Bangalore,Cash on Delivery,129928
+1324,11/20/2023,Speaker,Accessories,33828,2,Hyderabad,Debit Card,67656
+1325,11/21/2023,Smartphone,Fashion,12829,3,Bangalore,Credit Card,38487
+1326,11/22/2023,Speaker,Accessories,25669,3,Bangalore,Debit Card,77007
+1327,11/23/2023,Laptop,Accessories,22432,1,Delhi,Debit Card,22432
+1328,11/24/2023,T-shirt,Electronics,35094,1,Pune,Cash on Delivery,35094
+1329,11/25/2023,Laptop,Electronics,11921,4,Hyderabad,UPI,47684
+1330,11/26/2023,Tablet,Accessories,45533,3,Delhi,UPI,136599
+1331,11/27/2023,Backpack,Electronics,8129,2,Bangalore,UPI,16258
+1332,11/28/2023,Camera,Fashion,8825,2,Delhi,Credit Card,17650
+1333,11/29/2023,Speaker,Fashion,28995,2,Pune,Debit Card,57990
+1334,11/30/2023,Camera,Electronics,32250,1,Chennai,UPI,32250
+1335,12/1/2023,Speaker,Fashion,30119,2,Hyderabad,Cash on Delivery,60238
+1336,12/2/2023,Headphones,Electronics,40961,1,Pune,UPI,40961
+1337,12/3/2023,Smartphone,Accessories,8764,1,Mumbai,UPI,8764
+1338,12/4/2023,Tablet,Accessories,13186,4,Hyderabad,Debit Card,52744
+1339,12/5/2023,T-shirt,Fashion,46984,2,Pune,Debit Card,93968
+1340,12/6/2023,Speaker,Electronics,24726,2,Bangalore,Debit Card,49452
+1341,12/7/2023,Camera,Electronics,7221,3,Hyderabad,Credit Card,21663
+1342,12/8/2023,Tablet,Fashion,21109,4,Hyderabad,Credit Card,84436
+1343,12/9/2023,Shoes,Accessories,7873,3,Delhi,UPI,23619
+1344,12/10/2023,Shoes,Fashion,39175,4,Bangalore,Debit Card,156700
+1345,12/11/2023,Laptop,Accessories,49395,2,Mumbai,UPI,98790
+1346,12/12/2023,T-shirt,Electronics,29437,1,Chennai,Cash on Delivery,29437
+1347,12/13/2023,Headphones,Accessories,6156,1,Pune,Cash on Delivery,6156
+1348,12/14/2023,Camera,Fashion,9484,1,Delhi,Debit Card,9484
+1349,12/15/2023,Smartphone,Electronics,30484,1,Pune,Debit Card,30484
+1350,12/16/2023,Smartphone,Fashion,8786,1,Mumbai,Cash on Delivery,8786
+1351,12/17/2023,Camera,Fashion,6401,3,Mumbai,Debit Card,19203
+1352,12/18/2023,Backpack,Accessories,32052,4,Hyderabad,Credit Card,128208
+1353,12/19/2023,Headphones,Fashion,26209,2,Mumbai,Credit Card,52418
+1354,12/20/2023,Tablet,Accessories,31555,3,Pune,Debit Card,94665
+1355,12/21/2023,Speaker,Electronics,38185,4,Bangalore,Cash on Delivery,152740
+1356,12/22/2023,Backpack,Accessories,8929,1,Bangalore,UPI,8929
+1357,12/23/2023,Speaker,Electronics,15216,4,Hyderabad,Debit Card,60864
+1358,12/24/2023,Speaker,Accessories,49063,4,Chennai,Debit Card,196252
+1359,12/25/2023,Backpack,Fashion,11638,1,Pune,UPI,11638
+1360,12/26/2023,Laptop,Accessories,35798,1,Pune,Debit Card,35798
+1361,12/27/2023,Shoes,Accessories,23929,1,Mumbai,UPI,23929
+1362,12/28/2023,Speaker,Electronics,6272,2,Pune,Cash on Delivery,12544
+1363,12/29/2023,Backpack,Fashion,48744,1,Delhi,Credit Card,48744
+1364,12/30/2023,Backpack,Accessories,49019,2,Chennai,Cash on Delivery,98038
+1365,12/31/2023,Watch,Fashion,36232,1,Mumbai,Credit Card,36232
+1366,1/1/2024,Laptop,Accessories,40405,2,Delhi,UPI,80810
+1367,1/2/2024,T-shirt,Accessories,17847,4,Hyderabad,Credit Card,71388
+1368,1/3/2024,Watch,Fashion,17420,3,Bangalore,Cash on Delivery,52260
+1369,1/4/2024,Watch,Accessories,32322,4,Hyderabad,Credit Card,129288
+1370,1/5/2024,Camera,Fashion,47159,4,Bangalore,UPI,188636
+1371,1/6/2024,Shoes,Accessories,40608,1,Hyderabad,Credit Card,40608
+1372,1/7/2024,Backpack,Electronics,24063,2,Pune,Debit Card,48126
+1373,1/8/2024,Shoes,Fashion,8467,3,Delhi,Cash on Delivery,25401
+1374,1/9/2024,Headphones,Accessories,45683,1,Bangalore,Debit Card,45683
+1375,1/10/2024,Camera,Accessories,12371,1,Mumbai,UPI,12371
+1376,1/11/2024,T-shirt,Electronics,29263,1,Delhi,Credit Card,29263
+1377,1/12/2024,Shoes,Fashion,12416,4,Mumbai,Debit Card,49664
+1378,1/13/2024,Smartphone,Accessories,9234,2,Delhi,Debit Card,18468
+1379,1/14/2024,Speaker,Electronics,34113,2,Delhi,Credit Card,68226
+1380,1/15/2024,Headphones,Accessories,28679,3,Hyderabad,Credit Card,86037
+1381,1/16/2024,Laptop,Fashion,35762,2,Bangalore,Cash on Delivery,71524
+1382,1/17/2024,T-shirt,Accessories,13177,2,Bangalore,Debit Card,26354
+1383,1/18/2024,Headphones,Accessories,18768,1,Delhi,Debit Card,18768
+1384,1/19/2024,Speaker,Accessories,12830,1,Pune,UPI,12830
+1385,1/20/2024,Camera,Accessories,21233,4,Pune,Cash on Delivery,84932
+1386,1/21/2024,Speaker,Electronics,38447,1,Mumbai,UPI,38447
+1387,1/22/2024,Watch,Electronics,27786,1,Mumbai,Debit Card,27786
+1388,1/23/2024,Speaker,Fashion,7110,1,Hyderabad,UPI,7110
+1389,1/24/2024,Watch,Electronics,6930,1,Delhi,Debit Card,6930
+1390,1/25/2024,Camera,Electronics,40422,4,Mumbai,Debit Card,161688
+1391,1/26/2024,Tablet,Fashion,14328,1,Mumbai,UPI,14328
+1392,1/27/2024,Watch,Electronics,43413,3,Chennai,UPI,130239
+1393,1/28/2024,Laptop,Electronics,31997,3,Delhi,Credit Card,95991
+1394,1/29/2024,Speaker,Fashion,39756,3,Hyderabad,Credit Card,119268
+1395,1/30/2024,Speaker,Fashion,37118,3,Mumbai,Credit Card,111354
+1396,1/31/2024,Laptop,Fashion,46832,1,Hyderabad,Debit Card,46832
+1397,2/1/2024,Smartphone,Accessories,27026,3,Bangalore,UPI,81078
+1398,2/2/2024,Backpack,Accessories,30658,1,Hyderabad,Cash on Delivery,30658
+1399,2/3/2024,Tablet,Fashion,25532,4,Pune,Debit Card,102128
+1400,2/4/2024,T-shirt,Fashion,38346,3,Pune,Cash on Delivery,115038
+1401,2/5/2024,Watch,Fashion,45436,2,Hyderabad,UPI,90872
+1402,2/6/2024,Laptop,Accessories,30294,3,Pune,Debit Card,90882
+1403,2/7/2024,Camera,Accessories,5948,3,Bangalore,Cash on Delivery,17844
+1404,2/8/2024,Watch,Electronics,29361,1,Delhi,Cash on Delivery,29361
+1405,2/9/2024,Backpack,Electronics,28641,3,Pune,Credit Card,85923
+1406,2/10/2024,Camera,Fashion,9574,2,Pune,Credit Card,19148
+1407,2/11/2024,Headphones,Accessories,6906,1,Hyderabad,Credit Card,6906
+1408,2/12/2024,Speaker,Accessories,32323,1,Bangalore,Debit Card,32323
+1409,2/13/2024,Headphones,Accessories,23791,4,Delhi,UPI,95164
+1410,2/14/2024,Watch,Fashion,42068,4,Hyderabad,UPI,168272
+1411,2/15/2024,Backpack,Electronics,32503,3,Hyderabad,Credit Card,97509
+1412,2/16/2024,Tablet,Fashion,47351,4,Chennai,Credit Card,189404
+1413,2/17/2024,Watch,Electronics,34906,4,Bangalore,Credit Card,139624
+1414,2/18/2024,Laptop,Electronics,23812,4,Delhi,Cash on Delivery,95248
+1415,2/19/2024,Shoes,Fashion,43608,1,Bangalore,Credit Card,43608
+1416,2/20/2024,Watch,Electronics,1882,1,Delhi,Cash on Delivery,1882
+1417,2/21/2024,Speaker,Electronics,34671,1,Bangalore,UPI,34671
+1418,2/22/2024,Speaker,Accessories,42279,4,Hyderabad,Debit Card,169116
+1419,2/23/2024,Watch,Electronics,3792,1,Hyderabad,Debit Card,3792
+1420,2/24/2024,Camera,Fashion,42279,4,Mumbai,Debit Card,169116
+1421,2/25/2024,Shoes,Fashion,33687,1,Pune,Debit Card,33687
+1422,2/26/2024,Laptop,Electronics,12911,1,Chennai,Cash on Delivery,12911
+1423,2/27/2024,Watch,Accessories,37785,2,Bangalore,Cash on Delivery,75570
+1424,2/28/2024,Camera,Accessories,15922,3,Chennai,Credit Card,47766
+1425,2/29/2024,Speaker,Electronics,42968,4,Mumbai,Cash on Delivery,171872
+1426,3/1/2024,Speaker,Electronics,32871,2,Pune,Credit Card,65742
+1427,3/2/2024,Backpack,Fashion,6193,1,Bangalore,Credit Card,6193
+1428,3/3/2024,Watch,Electronics,34035,4,Delhi,Debit Card,136140
+1429,3/4/2024,Shoes,Accessories,15318,1,Pune,Cash on Delivery,15318
+1430,3/5/2024,Smartphone,Electronics,31738,3,Hyderabad,Cash on Delivery,95214
+1431,3/6/2024,Shoes,Fashion,31374,2,Mumbai,Credit Card,62748
+1432,3/7/2024,Speaker,Fashion,27215,3,Pune,Credit Card,81645
+1433,3/8/2024,Speaker,Fashion,28105,2,Pune,UPI,56210
+1434,3/9/2024,Headphones,Fashion,34817,1,Hyderabad,UPI,34817
+1435,3/10/2024,Speaker,Fashion,31674,3,Bangalore,Credit Card,95022
+1436,3/11/2024,Laptop,Electronics,10456,3,Delhi,UPI,31368
+1437,3/12/2024,T-shirt,Electronics,39408,1,Hyderabad,UPI,39408
+1438,3/13/2024,Watch,Electronics,11337,3,Delhi,Credit Card,34011
+1439,3/14/2024,Shoes,Electronics,4216,4,Bangalore,Credit Card,16864
+1440,3/15/2024,T-shirt,Fashion,4981,2,Pune,Cash on Delivery,9962
+1441,3/16/2024,Camera,Accessories,24782,2,Delhi,Credit Card,49564
+1442,3/17/2024,Smartphone,Electronics,7048,2,Mumbai,Credit Card,14096
+1443,3/18/2024,Laptop,Accessories,38105,4,Mumbai,Debit Card,152420
+1444,3/19/2024,Shoes,Electronics,8258,2,Hyderabad,Cash on Delivery,16516
+1445,3/20/2024,T-shirt,Electronics,44168,1,Bangalore,Cash on Delivery,44168
+1446,3/21/2024,Smartphone,Accessories,23677,3,Hyderabad,Cash on Delivery,71031
+1447,3/22/2024,Headphones,Fashion,24522,4,Hyderabad,Debit Card,98088
+1448,3/23/2024,Laptop,Electronics,41261,2,Chennai,Credit Card,82522
+1449,3/24/2024,Laptop,Electronics,6042,1,Hyderabad,Cash on Delivery,6042
+1450,3/25/2024,Headphones,Electronics,25976,3,Chennai,Cash on Delivery,77928
+1451,3/26/2024,Watch,Accessories,31284,3,Mumbai,UPI,93852
+1452,3/27/2024,Headphones,Fashion,23240,4,Mumbai,Cash on Delivery,92960
+1453,3/28/2024,Laptop,Accessories,25317,4,Hyderabad,Credit Card,101268
+1454,3/29/2024,Laptop,Accessories,48096,4,Mumbai,Credit Card,192384
+1455,3/30/2024,T-shirt,Fashion,16552,1,Bangalore,UPI,16552
+1456,3/31/2024,Speaker,Accessories,35653,1,Chennai,Cash on Delivery,35653
+1457,4/1/2024,Smartphone,Fashion,47576,4,Chennai,Cash on Delivery,190304
+1458,4/2/2024,Headphones,Electronics,1171,2,Hyderabad,Cash on Delivery,2342
+1459,4/3/2024,Smartphone,Fashion,663,3,Mumbai,Debit Card,1989
+1460,4/4/2024,Headphones,Electronics,41924,3,Delhi,Cash on Delivery,125772
+1461,4/5/2024,Camera,Accessories,44502,1,Chennai,Credit Card,44502
+1462,4/6/2024,Laptop,Accessories,5295,3,Hyderabad,Credit Card,15885
+1463,4/7/2024,Speaker,Electronics,11134,2,Hyderabad,Debit Card,22268
+1464,4/8/2024,T-shirt,Accessories,5298,3,Bangalore,Debit Card,15894
+1465,4/9/2024,Speaker,Fashion,22920,1,Pune,Cash on Delivery,22920
+1466,4/10/2024,Speaker,Electronics,29800,1,Pune,UPI,29800
+1467,4/11/2024,Speaker,Accessories,24845,2,Chennai,Debit Card,49690
+1468,4/12/2024,Smartphone,Electronics,11249,2,Bangalore,Debit Card,22498
+1469,4/13/2024,Headphones,Fashion,39095,3,Bangalore,Cash on Delivery,117285
+1470,4/14/2024,Tablet,Fashion,25621,3,Bangalore,Cash on Delivery,76863
+1471,4/15/2024,Camera,Accessories,37987,1,Chennai,Debit Card,37987
+1472,4/16/2024,Shoes,Fashion,28911,2,Pune,UPI,57822
+1473,4/17/2024,Speaker,Electronics,33861,2,Bangalore,Debit Card,67722
+1474,4/18/2024,Watch,Fashion,21723,2,Mumbai,Cash on Delivery,43446
+1475,4/19/2024,Smartphone,Electronics,7894,3,Hyderabad,Cash on Delivery,23682
+1476,4/20/2024,T-shirt,Electronics,14556,2,Hyderabad,Debit Card,29112
+1477,4/21/2024,Shoes,Fashion,28880,1,Delhi,UPI,28880
+1478,4/22/2024,Tablet,Accessories,26535,1,Delhi,Debit Card,26535
+1479,4/23/2024,Watch,Fashion,31120,3,Chennai,Debit Card,93360
+1480,4/24/2024,Tablet,Electronics,20377,4,Chennai,Cash on Delivery,81508
+1481,4/25/2024,Shoes,Electronics,43904,3,Hyderabad,UPI,131712
+1482,4/26/2024,Speaker,Fashion,31411,4,Mumbai,Credit Card,125644
+1483,4/27/2024,Watch,Accessories,33284,2,Pune,UPI,66568
+1484,4/28/2024,Tablet,Accessories,3691,3,Pune,Debit Card,11073
+1485,4/29/2024,T-shirt,Electronics,33660,1,Chennai,Debit Card,33660
+1486,4/30/2024,Headphones,Electronics,25500,2,Mumbai,Debit Card,51000
+1487,5/1/2024,Laptop,Accessories,39540,1,Chennai,UPI,39540
+1488,5/2/2024,Headphones,Fashion,4131,2,Pune,Cash on Delivery,8262
+1489,5/3/2024,Shoes,Electronics,6672,3,Chennai,Debit Card,20016
+1490,5/4/2024,Smartphone,Electronics,42580,4,Bangalore,Debit Card,170320
+1491,5/5/2024,Laptop,Accessories,24061,2,Chennai,UPI,48122
+1492,5/6/2024,Camera,Fashion,25317,4,Hyderabad,Credit Card,101268
+1493,5/7/2024,T-shirt,Accessories,20781,2,Chennai,Credit Card,41562
+1494,5/8/2024,Camera,Fashion,29171,1,Hyderabad,Cash on Delivery,29171
+1495,5/9/2024,Watch,Fashion,25864,1,Mumbai,Cash on Delivery,25864
+1496,5/10/2024,Laptop,Fashion,42174,2,Pune,Debit Card,84348
+1497,5/11/2024,Camera,Electronics,27925,4,Delhi,UPI,111700
+1498,5/12/2024,Camera,Accessories,29102,3,Delhi,Debit Card,87306
+1499,5/13/2024,Tablet,Accessories,23753,3,Pune,Cash on Delivery,71259
+1500,5/14/2024,Headphones,Fashion,23972,1,Delhi,UPI,23972
+1501,5/15/2024,Tablet,Electronics,49730,3,Chennai,UPI,149190
+1502,5/16/2024,Laptop,Electronics,8580,1,Mumbai,Cash on Delivery,8580
+1503,5/17/2024,Laptop,Accessories,7599,3,Mumbai,Credit Card,22797
+1504,5/18/2024,Shoes,Electronics,25931,2,Pune,Credit Card,51862
+1505,5/19/2024,Tablet,Electronics,31686,1,Delhi,UPI,31686
+1506,5/20/2024,Backpack,Fashion,48184,1,Chennai,Debit Card,48184
+1507,5/21/2024,Headphones,Electronics,30611,2,Mumbai,Credit Card,61222
+1508,5/22/2024,Laptop,Fashion,40351,1,Mumbai,Debit Card,40351
+1509,5/23/2024,Shoes,Accessories,23114,3,Bangalore,Credit Card,69342
+1510,5/24/2024,Tablet,Electronics,27224,3,Bangalore,Credit Card,81672
+1511,5/25/2024,Headphones,Accessories,42491,1,Mumbai,Debit Card,42491
+1512,5/26/2024,Tablet,Accessories,5440,3,Pune,Cash on Delivery,16320
+1513,5/27/2024,Camera,Electronics,29258,4,Hyderabad,Credit Card,117032
+1514,5/28/2024,Shoes,Electronics,36724,1,Hyderabad,Credit Card,36724
+1515,5/29/2024,Headphones,Accessories,8288,2,Chennai,Debit Card,16576
+1516,5/30/2024,Speaker,Electronics,28582,4,Mumbai,Cash on Delivery,114328
+1517,5/31/2024,Watch,Fashion,24534,1,Mumbai,Credit Card,24534
+1518,6/1/2024,Watch,Fashion,35979,2,Mumbai,Credit Card,71958
+1519,6/2/2024,Headphones,Electronics,11780,3,Pune,Cash on Delivery,35340
+1520,6/3/2024,Tablet,Accessories,18552,2,Bangalore,Credit Card,37104
+1521,6/4/2024,Shoes,Electronics,17031,4,Mumbai,Cash on Delivery,68124
+1522,6/5/2024,Watch,Electronics,23304,3,Mumbai,Cash on Delivery,69912
+1523,6/6/2024,Shoes,Accessories,29403,1,Delhi,Debit Card,29403
+1524,6/7/2024,Watch,Accessories,45357,3,Pune,UPI,136071
+1525,6/8/2024,Camera,Fashion,10642,1,Chennai,Cash on Delivery,10642
+1526,6/9/2024,Tablet,Accessories,48855,1,Mumbai,Debit Card,48855
+1527,6/10/2024,Camera,Fashion,10366,2,Delhi,UPI,20732
+1528,6/11/2024,Watch,Accessories,5031,2,Hyderabad,Credit Card,10062
+1529,6/12/2024,Speaker,Electronics,45954,2,Chennai,UPI,91908
+1530,6/13/2024,Speaker,Fashion,38598,4,Mumbai,Cash on Delivery,154392
+1531,6/14/2024,Camera,Fashion,38778,4,Mumbai,Cash on Delivery,155112
+1532,6/15/2024,Speaker,Fashion,28638,2,Delhi,Cash on Delivery,57276
+1533,6/16/2024,Watch,Electronics,27565,4,Pune,Cash on Delivery,110260
+1534,6/17/2024,Headphones,Electronics,30456,3,Mumbai,Cash on Delivery,91368
+1535,6/18/2024,Camera,Electronics,42232,3,Hyderabad,Debit Card,126696
+1536,6/19/2024,Smartphone,Electronics,39761,4,Mumbai,Cash on Delivery,159044
+1537,6/20/2024,Tablet,Electronics,11259,4,Hyderabad,Debit Card,45036
+1538,6/21/2024,Speaker,Fashion,5939,3,Chennai,Credit Card,17817
+1539,6/22/2024,Speaker,Electronics,47741,1,Chennai,Cash on Delivery,47741
+1540,6/23/2024,Laptop,Fashion,43033,3,Bangalore,Cash on Delivery,129099
+1541,6/24/2024,Backpack,Electronics,28770,3,Bangalore,UPI,86310
+1542,6/25/2024,Camera,Accessories,13779,4,Hyderabad,Credit Card,55116
+1543,6/26/2024,T-shirt,Fashion,39779,3,Pune,Cash on Delivery,119337
+1544,6/27/2024,Speaker,Accessories,44751,4,Mumbai,Cash on Delivery,179004
+1545,6/28/2024,Tablet,Fashion,24388,4,Mumbai,Credit Card,97552
+1546,6/29/2024,Smartphone,Accessories,18130,2,Bangalore,Debit Card,36260
+1547,6/30/2024,Speaker,Electronics,35644,3,Hyderabad,Cash on Delivery,106932
+1548,7/1/2024,Smartphone,Electronics,31682,1,Mumbai,UPI,31682
+1549,7/2/2024,Watch,Electronics,26038,2,Mumbai,Cash on Delivery,52076
+1550,7/3/2024,Watch,Fashion,12324,4,Pune,UPI,49296
+1551,7/4/2024,Backpack,Accessories,32625,4,Delhi,UPI,130500
+1552,7/5/2024,Headphones,Electronics,7479,1,Bangalore,Cash on Delivery,7479
+1553,7/6/2024,T-shirt,Accessories,26689,4,Bangalore,Cash on Delivery,106756
+1554,7/7/2024,Laptop,Accessories,43100,3,Delhi,UPI,129300
+1555,7/8/2024,Backpack,Electronics,13004,2,Mumbai,Credit Card,26008
+1556,7/9/2024,Shoes,Electronics,21169,4,Pune,Credit Card,84676
+1557,7/10/2024,Laptop,Accessories,7410,4,Pune,Cash on Delivery,29640
+1558,7/11/2024,Camera,Electronics,47357,1,Bangalore,Debit Card,47357
+1559,7/12/2024,Tablet,Electronics,35464,3,Pune,Credit Card,106392
+1560,7/13/2024,Shoes,Electronics,20631,4,Chennai,Cash on Delivery,82524
+1561,7/14/2024,Shoes,Fashion,25727,1,Delhi,Credit Card,25727
+1562,7/15/2024,Backpack,Accessories,6478,4,Mumbai,Debit Card,25912
+1563,7/16/2024,Headphones,Accessories,22491,1,Chennai,Cash on Delivery,22491
+1564,7/17/2024,Backpack,Fashion,17653,1,Delhi,Debit Card,17653
+1565,7/18/2024,Camera,Accessories,34048,3,Hyderabad,Cash on Delivery,102144
+1566,7/19/2024,Speaker,Electronics,43176,4,Bangalore,Debit Card,172704
+1567,7/20/2024,Speaker,Accessories,39571,3,Pune,Credit Card,118713
+1568,7/21/2024,Headphones,Electronics,47954,1,Hyderabad,Credit Card,47954
+1569,7/22/2024,Camera,Fashion,4483,2,Pune,Debit Card,8966
+1570,7/23/2024,Headphones,Electronics,10003,4,Chennai,Debit Card,40012
+1571,7/24/2024,Smartphone,Accessories,30421,2,Mumbai,Debit Card,60842
+1572,7/25/2024,Speaker,Accessories,17405,4,Mumbai,Cash on Delivery,69620
+1573,7/26/2024,Shoes,Accessories,46338,3,Mumbai,Credit Card,139014
+1574,7/27/2024,T-shirt,Fashion,24453,3,Pune,Cash on Delivery,73359
+1575,7/28/2024,Tablet,Fashion,27306,3,Hyderabad,Credit Card,81918
+1576,7/29/2024,Camera,Accessories,45500,3,Mumbai,UPI,136500
+1577,7/30/2024,Laptop,Electronics,22668,3,Hyderabad,Cash on Delivery,68004
+1578,7/31/2024,Headphones,Fashion,5083,2,Pune,Credit Card,10166
+1579,8/1/2024,Tablet,Accessories,39214,3,Chennai,Credit Card,117642
+1580,8/2/2024,Laptop,Accessories,49645,1,Hyderabad,Cash on Delivery,49645
+1581,8/3/2024,Tablet,Fashion,40396,1,Chennai,Cash on Delivery,40396
+1582,8/4/2024,T-shirt,Fashion,12389,2,Pune,Credit Card,24778
+1583,8/5/2024,Laptop,Fashion,27913,4,Pune,Cash on Delivery,111652
+1584,8/6/2024,Backpack,Electronics,12775,1,Bangalore,Debit Card,12775
+1585,8/7/2024,Watch,Electronics,2961,4,Pune,Cash on Delivery,11844
+1586,8/8/2024,Backpack,Accessories,14791,2,Pune,Cash on Delivery,29582
+1587,8/9/2024,Speaker,Fashion,47304,4,Delhi,Cash on Delivery,189216
+1588,8/10/2024,Watch,Electronics,11935,4,Mumbai,Credit Card,47740
+1589,8/11/2024,Backpack,Fashion,28435,4,Bangalore,Debit Card,113740
+1590,8/12/2024,Watch,Accessories,33953,4,Bangalore,UPI,135812
+1591,8/13/2024,Watch,Electronics,19044,2,Bangalore,UPI,38088
+1592,8/14/2024,Shoes,Electronics,12758,1,Delhi,Debit Card,12758
+1593,8/15/2024,Headphones,Electronics,31341,3,Chennai,Debit Card,94023
+1594,8/16/2024,Headphones,Accessories,49258,4,Pune,Debit Card,197032
+1595,8/17/2024,Shoes,Fashion,49690,1,Mumbai,Credit Card,49690
+1596,8/18/2024,Tablet,Electronics,11236,1,Hyderabad,UPI,11236
+1597,8/19/2024,Smartphone,Accessories,38143,2,Chennai,Debit Card,76286
+1598,8/20/2024,Tablet,Fashion,44450,1,Pune,Credit Card,44450
+1599,8/21/2024,Laptop,Accessories,35464,2,Delhi,UPI,70928
+1600,8/22/2024,Laptop,Fashion,28544,4,Pune,Cash on Delivery,114176
+1601,8/23/2024,Watch,Accessories,40433,4,Pune,Credit Card,161732
+1602,8/24/2024,Backpack,Fashion,16497,3,Delhi,UPI,49491
+1603,8/25/2024,Backpack,Electronics,14715,3,Bangalore,Credit Card,44145
+1604,8/26/2024,Headphones,Fashion,33569,3,Bangalore,UPI,100707
+1605,8/27/2024,Camera,Accessories,24411,1,Mumbai,UPI,24411
+1606,8/28/2024,Tablet,Accessories,17530,4,Mumbai,Cash on Delivery,70120
+1607,8/29/2024,Speaker,Fashion,29834,2,Bangalore,Credit Card,59668
+1608,8/30/2024,T-shirt,Electronics,15071,3,Chennai,Debit Card,45213
+1609,8/31/2024,Backpack,Electronics,43219,2,Hyderabad,Cash on Delivery,86438
+1610,9/1/2024,T-shirt,Fashion,29427,2,Pune,Cash on Delivery,58854
+1611,9/2/2024,Watch,Fashion,21214,3,Hyderabad,UPI,63642
+1612,9/3/2024,T-shirt,Accessories,44041,4,Pune,Debit Card,176164
+1613,9/4/2024,Speaker,Electronics,23887,3,Bangalore,Credit Card,71661
+1614,9/5/2024,Shoes,Fashion,28944,2,Mumbai,Debit Card,57888
+1615,9/6/2024,Speaker,Electronics,49408,3,Chennai,Debit Card,148224
+1616,9/7/2024,T-shirt,Fashion,20421,2,Mumbai,Debit Card,40842
+1617,9/8/2024,Speaker,Fashion,13557,2,Hyderabad,Debit Card,27114
+1618,9/9/2024,Smartphone,Electronics,45768,3,Mumbai,Debit Card,137304
+1619,9/10/2024,Watch,Fashion,25358,1,Bangalore,UPI,25358
+1620,9/11/2024,Tablet,Fashion,49189,3,Chennai,UPI,147567
+1621,9/12/2024,Shoes,Accessories,45138,1,Hyderabad,Cash on Delivery,45138
+1622,9/13/2024,Backpack,Fashion,26562,2,Chennai,UPI,53124
+1623,9/14/2024,Laptop,Fashion,37350,2,Pune,Cash on Delivery,74700
+1624,9/15/2024,Tablet,Fashion,46986,1,Mumbai,Cash on Delivery,46986
+1625,9/16/2024,Laptop,Accessories,21067,2,Chennai,Credit Card,42134
+1626,9/17/2024,Watch,Electronics,30239,1,Delhi,Debit Card,30239
+1627,9/18/2024,Shoes,Accessories,43785,1,Mumbai,UPI,43785
+1628,9/19/2024,Headphones,Accessories,4254,2,Pune,Credit Card,8508
+1629,9/20/2024,Backpack,Electronics,27544,4,Chennai,UPI,110176
+1630,9/21/2024,Smartphone,Accessories,2224,1,Hyderabad,Cash on Delivery,2224
+1631,9/22/2024,Headphones,Electronics,1876,3,Pune,UPI,5628
+1632,9/23/2024,Watch,Accessories,9206,3,Delhi,Debit Card,27618
+1633,9/24/2024,Tablet,Electronics,9394,2,Chennai,Cash on Delivery,18788
+1634,9/25/2024,Smartphone,Fashion,18537,4,Bangalore,Cash on Delivery,74148
+1635,9/26/2024,Speaker,Accessories,18950,2,Mumbai,Credit Card,37900
+1636,9/27/2024,T-shirt,Accessories,16906,4,Hyderabad,Debit Card,67624
+1637,9/28/2024,Smartphone,Accessories,30225,1,Bangalore,Cash on Delivery,30225
+1638,9/29/2024,Watch,Accessories,6426,1,Chennai,Debit Card,6426
+1639,9/30/2024,Camera,Fashion,39519,1,Chennai,UPI,39519
+1640,10/1/2024,T-shirt,Accessories,9996,1,Pune,Debit Card,9996
+1641,10/2/2024,Laptop,Fashion,36568,3,Chennai,Cash on Delivery,109704
+1642,10/3/2024,Backpack,Fashion,30306,3,Hyderabad,Credit Card,90918
+1643,10/4/2024,Laptop,Fashion,23163,2,Bangalore,Cash on Delivery,46326
+1644,10/5/2024,Smartphone,Fashion,41821,4,Hyderabad,Debit Card,167284
+1645,10/6/2024,Laptop,Electronics,36995,1,Delhi,Debit Card,36995
+1646,10/7/2024,Watch,Electronics,23156,1,Delhi,Cash on Delivery,23156
+1647,10/8/2024,Speaker,Accessories,26360,4,Mumbai,Debit Card,105440
+1648,10/9/2024,Tablet,Electronics,17332,4,Mumbai,UPI,69328
+1649,10/10/2024,Backpack,Electronics,39287,2,Delhi,Cash on Delivery,78574
+1650,10/11/2024,Laptop,Accessories,48731,4,Chennai,Credit Card,194924
+1651,10/12/2024,Laptop,Accessories,22227,1,Hyderabad,Cash on Delivery,22227
+1652,10/13/2024,Smartphone,Accessories,43315,1,Delhi,UPI,43315
+1653,10/14/2024,Tablet,Electronics,30045,1,Mumbai,UPI,30045
+1654,10/15/2024,Headphones,Electronics,45022,1,Delhi,UPI,45022
+1655,10/16/2024,Laptop,Accessories,3020,1,Chennai,UPI,3020
+1656,10/17/2024,Watch,Fashion,3581,2,Delhi,UPI,7162
+1657,10/18/2024,Camera,Accessories,34696,1,Hyderabad,Credit Card,34696
+1658,10/19/2024,Backpack,Fashion,37235,2,Bangalore,Debit Card,74470
+1659,10/20/2024,Laptop,Fashion,39713,1,Chennai,UPI,39713
+1660,10/21/2024,Watch,Accessories,15066,3,Mumbai,UPI,45198
+1661,10/22/2024,Watch,Accessories,14542,3,Hyderabad,Cash on Delivery,43626
+1662,10/23/2024,Backpack,Accessories,25998,3,Delhi,Credit Card,77994
+1663,10/24/2024,Headphones,Electronics,11829,3,Delhi,Credit Card,35487
+1664,10/25/2024,Watch,Fashion,32156,2,Bangalore,Debit Card,64312
+1665,10/26/2024,Camera,Electronics,2659,2,Mumbai,Credit Card,5318
+1666,10/27/2024,Watch,Electronics,38400,4,Mumbai,Cash on Delivery,153600
+1667,10/28/2024,Watch,Accessories,19863,1,Pune,Cash on Delivery,19863
+1668,10/29/2024,Watch,Electronics,48201,3,Mumbai,Debit Card,144603
+1669,10/30/2024,Speaker,Accessories,43741,2,Bangalore,Cash on Delivery,87482
+1670,10/31/2024,Speaker,Fashion,19533,1,Pune,UPI,19533
+1671,11/1/2024,Headphones,Accessories,11305,1,Pune,UPI,11305
+1672,11/2/2024,Laptop,Electronics,36351,2,Delhi,Cash on Delivery,72702
+1673,11/3/2024,Watch,Electronics,27332,3,Delhi,Debit Card,81996
+1674,11/4/2024,Tablet,Accessories,14444,4,Mumbai,Credit Card,57776
+1675,11/5/2024,Laptop,Accessories,20373,1,Pune,Debit Card,20373
+1676,11/6/2024,Headphones,Electronics,40872,4,Delhi,Credit Card,163488
+1677,11/7/2024,Shoes,Fashion,24428,3,Bangalore,Cash on Delivery,73284
+1678,11/8/2024,Laptop,Fashion,15879,3,Delhi,Cash on Delivery,47637
+1679,11/9/2024,Laptop,Accessories,37251,4,Chennai,UPI,149004
+1680,11/10/2024,T-shirt,Fashion,35046,3,Chennai,Credit Card,105138
+1681,11/11/2024,Smartphone,Electronics,24786,1,Delhi,Debit Card,24786
+1682,11/12/2024,T-shirt,Accessories,5610,4,Pune,Cash on Delivery,22440
+1683,11/13/2024,Camera,Electronics,12587,3,Pune,Debit Card,37761
+1684,11/14/2024,Speaker,Electronics,24262,4,Hyderabad,UPI,97048
+1685,11/15/2024,Speaker,Fashion,17581,1,Chennai,Credit Card,17581
+1686,11/16/2024,Smartphone,Accessories,35447,3,Bangalore,Credit Card,106341
+1687,11/17/2024,Backpack,Accessories,10096,1,Pune,Cash on Delivery,10096
+1688,11/18/2024,Backpack,Fashion,38519,3,Mumbai,Credit Card,115557
+1689,11/19/2024,Headphones,Electronics,42503,2,Chennai,Cash on Delivery,85006
+1690,11/20/2024,Smartphone,Electronics,18813,3,Bangalore,UPI,56439
+1691,11/21/2024,Laptop,Electronics,48139,4,Bangalore,Credit Card,192556
+1692,11/22/2024,Backpack,Electronics,1513,3,Pune,Cash on Delivery,4539
+1693,11/23/2024,Watch,Accessories,49878,1,Bangalore,Debit Card,49878
+1694,11/24/2024,Tablet,Accessories,24205,1,Pune,Cash on Delivery,24205
+1695,11/25/2024,Laptop,Fashion,2328,3,Delhi,Credit Card,6984
+1696,11/26/2024,Camera,Fashion,8409,4,Chennai,UPI,33636
+1697,11/27/2024,Watch,Accessories,38856,2,Hyderabad,Credit Card,77712
+1698,11/28/2024,Watch,Accessories,13609,4,Delhi,Credit Card,54436
+1699,11/29/2024,Smartphone,Electronics,2523,2,Chennai,Cash on Delivery,5046
+1700,11/30/2024,Headphones,Electronics,15037,1,Pune,Debit Card,15037
+1701,12/1/2024,Camera,Fashion,27161,4,Chennai,Credit Card,108644
+1702,12/2/2024,Backpack,Accessories,39159,2,Pune,Debit Card,78318
+1703,12/3/2024,Smartphone,Fashion,34348,3,Delhi,Cash on Delivery,103044
+1704,12/4/2024,Backpack,Accessories,38304,1,Mumbai,Debit Card,38304
+1705,12/5/2024,Smartphone,Electronics,15879,3,Mumbai,Cash on Delivery,47637
+1706,12/6/2024,Smartphone,Fashion,28266,1,Chennai,UPI,28266
+1707,12/7/2024,Smartphone,Fashion,44090,4,Mumbai,Debit Card,176360
+1708,12/8/2024,Headphones,Accessories,3063,4,Pune,Debit Card,12252
+1709,12/9/2024,Smartphone,Electronics,36560,1,Bangalore,UPI,36560
+1710,12/10/2024,Shoes,Fashion,29697,1,Pune,Debit Card,29697
+1711,12/11/2024,Tablet,Electronics,4086,1,Bangalore,UPI,4086
+1712,12/12/2024,Backpack,Fashion,16587,4,Delhi,Credit Card,66348
+1713,12/13/2024,Laptop,Electronics,49368,2,Hyderabad,Cash on Delivery,98736
+1714,12/14/2024,T-shirt,Accessories,23725,3,Bangalore,UPI,71175
+1715,12/15/2024,Camera,Fashion,30250,3,Mumbai,Debit Card,90750
+1716,12/16/2024,Speaker,Fashion,7143,4,Pune,UPI,28572
+1717,12/17/2024,Headphones,Electronics,28023,3,Delhi,Debit Card,84069
+1718,12/18/2024,Laptop,Electronics,37227,1,Mumbai,Credit Card,37227
+1719,12/19/2024,Watch,Fashion,11505,2,Delhi,UPI,23010
+1720,12/20/2024,Shoes,Accessories,44043,3,Hyderabad,Credit Card,132129
+1721,12/21/2024,Speaker,Electronics,661,2,Pune,Cash on Delivery,1322
+1722,12/22/2024,T-shirt,Electronics,16529,1,Chennai,Debit Card,16529
+1723,12/23/2024,Laptop,Electronics,14726,3,Pune,Debit Card,44178
+1724,12/24/2024,Speaker,Fashion,29231,4,Hyderabad,Credit Card,116924
+1725,12/25/2024,Laptop,Fashion,44422,2,Pune,Cash on Delivery,88844
+1726,12/26/2024,Shoes,Fashion,45348,1,Chennai,UPI,45348
+1727,12/27/2024,T-shirt,Fashion,3890,2,Bangalore,UPI,7780
+1728,12/28/2024,Watch,Accessories,6497,3,Delhi,Debit Card,19491
+1729,12/29/2024,Smartphone,Accessories,13193,3,Chennai,Credit Card,39579
+1730,12/30/2024,Backpack,Fashion,42592,4,Mumbai,Credit Card,170368
+1731,12/31/2024,Watch,Accessories,1041,1,Hyderabad,UPI,1041
+1732,1/1/2025,Smartphone,Electronics,22317,1,Bangalore,Cash on Delivery,22317
+1733,1/2/2025,Headphones,Electronics,38361,4,Mumbai,Cash on Delivery,153444
+1734,1/3/2025,Tablet,Electronics,13928,4,Mumbai,UPI,55712
+1735,1/4/2025,Camera,Fashion,44434,1,Hyderabad,UPI,44434
+1736,1/5/2025,Camera,Electronics,49331,2,Bangalore,Credit Card,98662
+1737,1/6/2025,Backpack,Accessories,10758,2,Mumbai,Cash on Delivery,21516
+1738,1/7/2025,T-shirt,Fashion,16544,4,Mumbai,UPI,66176
+1739,1/8/2025,Shoes,Accessories,29911,2,Bangalore,UPI,59822
+1740,1/9/2025,T-shirt,Electronics,5969,1,Pune,Debit Card,5969
+1741,1/10/2025,Shoes,Electronics,29354,3,Mumbai,UPI,88062
+1742,1/11/2025,T-shirt,Electronics,6756,3,Delhi,UPI,20268
+1743,1/12/2025,Tablet,Fashion,11220,2,Bangalore,Cash on Delivery,22440
+1744,1/13/2025,Headphones,Accessories,34437,4,Mumbai,Credit Card,137748
+1745,1/14/2025,Headphones,Fashion,34098,4,Hyderabad,Cash on Delivery,136392
+1746,1/15/2025,Smartphone,Fashion,2151,4,Chennai,Credit Card,8604
+1747,1/16/2025,Speaker,Electronics,19694,4,Delhi,Debit Card,78776
+1748,1/17/2025,Headphones,Fashion,25551,4,Chennai,UPI,102204
+1749,1/18/2025,Headphones,Fashion,27886,2,Chennai,Debit Card,55772
+1750,1/19/2025,Watch,Electronics,10018,3,Mumbai,Credit Card,30054
+1751,1/20/2025,Watch,Fashion,46526,3,Delhi,Cash on Delivery,139578
+1752,1/21/2025,Smartphone,Electronics,16684,2,Delhi,Cash on Delivery,33368
+1753,1/22/2025,Speaker,Electronics,34287,4,Pune,Debit Card,137148
+1754,1/23/2025,Backpack,Electronics,22121,2,Chennai,Credit Card,44242
+1755,1/24/2025,Watch,Electronics,10528,3,Delhi,Debit Card,31584
+1756,1/25/2025,Backpack,Fashion,12948,1,Pune,Debit Card,12948
+1757,1/26/2025,Laptop,Electronics,45753,2,Bangalore,UPI,91506
+1758,1/27/2025,Watch,Electronics,34551,4,Pune,Debit Card,138204
+1759,1/28/2025,Tablet,Fashion,30947,3,Hyderabad,UPI,92841
+1760,1/29/2025,Speaker,Fashion,18894,3,Mumbai,UPI,56682
+1761,1/30/2025,Smartphone,Accessories,35001,3,Bangalore,Cash on Delivery,105003
+1762,1/31/2025,Laptop,Fashion,30754,3,Bangalore,UPI,92262
+1763,2/1/2025,Speaker,Fashion,19009,4,Hyderabad,UPI,76036
+1764,2/2/2025,Tablet,Accessories,49498,1,Pune,Cash on Delivery,49498
+1765,2/3/2025,Speaker,Fashion,14972,3,Mumbai,Debit Card,44916
+1766,2/4/2025,Tablet,Fashion,46157,2,Pune,Credit Card,92314
+1767,2/5/2025,Tablet,Fashion,3971,1,Delhi,Credit Card,3971
+1768,2/6/2025,Backpack,Fashion,42296,3,Pune,Credit Card,126888
+1769,2/7/2025,T-shirt,Accessories,30768,1,Bangalore,Debit Card,30768
+1770,2/8/2025,Laptop,Fashion,8829,2,Mumbai,UPI,17658
+1771,2/9/2025,Speaker,Fashion,35365,3,Pune,Credit Card,106095
+1772,2/10/2025,Shoes,Accessories,47350,2,Mumbai,Debit Card,94700
+1773,2/11/2025,Laptop,Electronics,47198,4,Mumbai,UPI,188792
+1774,2/12/2025,T-shirt,Accessories,28772,3,Delhi,Cash on Delivery,86316
+1775,2/13/2025,Laptop,Electronics,43345,3,Delhi,Credit Card,130035
+1776,2/14/2025,Headphones,Accessories,6897,3,Bangalore,UPI,20691
+1777,2/15/2025,Shoes,Accessories,32873,3,Hyderabad,Credit Card,98619
+1778,2/16/2025,T-shirt,Fashion,36025,4,Mumbai,Credit Card,144100
+1779,2/17/2025,Backpack,Electronics,25070,3,Hyderabad,Credit Card,75210
+1780,2/18/2025,Speaker,Fashion,18784,1,Bangalore,UPI,18784
+1781,2/19/2025,Camera,Electronics,19494,3,Mumbai,Debit Card,58482
+1782,2/20/2025,T-shirt,Accessories,23784,4,Mumbai,UPI,95136
+1783,2/21/2025,Smartphone,Accessories,18333,3,Chennai,Credit Card,54999
+1784,2/22/2025,Speaker,Electronics,25622,1,Hyderabad,UPI,25622
+1785,2/23/2025,T-shirt,Fashion,5517,4,Pune,Cash on Delivery,22068
+1786,2/24/2025,Headphones,Fashion,16870,4,Delhi,Debit Card,67480
+1787,2/25/2025,Camera,Fashion,29752,1,Pune,UPI,29752
+1788,2/26/2025,Headphones,Fashion,8499,1,Hyderabad,Cash on Delivery,8499
+1789,2/27/2025,Camera,Accessories,22936,1,Delhi,Debit Card,22936
+1790,2/28/2025,Smartphone,Accessories,43463,1,Pune,Cash on Delivery,43463
+1791,3/1/2025,Speaker,Accessories,2596,1,Chennai,Debit Card,2596
+1792,3/2/2025,Backpack,Accessories,48701,4,Delhi,UPI,194804
+1793,3/3/2025,Headphones,Accessories,25779,4,Mumbai,Cash on Delivery,103116
+1794,3/4/2025,Headphones,Fashion,43863,3,Pune,Credit Card,131589
+1795,3/5/2025,Tablet,Fashion,49209,3,Delhi,Cash on Delivery,147627
+1796,3/6/2025,Camera,Fashion,26701,2,Chennai,Debit Card,53402
+1797,3/7/2025,Watch,Fashion,20215,3,Delhi,UPI,60645
+1798,3/8/2025,Speaker,Accessories,29809,3,Delhi,Debit Card,89427
+1799,3/9/2025,Camera,Accessories,15578,1,Chennai,Cash on Delivery,15578
+1800,3/10/2025,Tablet,Accessories,5605,1,Pune,Cash on Delivery,5605
+1801,3/11/2025,Laptop,Electronics,29812,3,Bangalore,Credit Card,89436
+1802,3/12/2025,Camera,Fashion,3339,2,Pune,UPI,6678
+1803,3/13/2025,Backpack,Fashion,3884,1,Hyderabad,UPI,3884
+1804,3/14/2025,Speaker,Accessories,44119,3,Chennai,Cash on Delivery,132357
+1805,3/15/2025,Tablet,Fashion,43321,3,Pune,UPI,129963
+1806,3/16/2025,Laptop,Fashion,13993,4,Delhi,Credit Card,55972
+1807,3/17/2025,Shoes,Accessories,17569,2,Chennai,Debit Card,35138
+1808,3/18/2025,Tablet,Electronics,47407,4,Mumbai,UPI,189628
+1809,3/19/2025,Shoes,Electronics,8031,2,Pune,Cash on Delivery,16062
+1810,3/20/2025,Speaker,Electronics,37551,1,Chennai,Debit Card,37551
+1811,3/21/2025,Headphones,Accessories,8236,2,Pune,Debit Card,16472
+1812,3/22/2025,Tablet,Fashion,8210,3,Chennai,Credit Card,24630
+1813,3/23/2025,Smartphone,Accessories,2119,3,Delhi,Cash on Delivery,6357
+1814,3/24/2025,Shoes,Accessories,14475,2,Mumbai,UPI,28950
+1815,3/25/2025,Backpack,Fashion,46103,2,Mumbai,Cash on Delivery,92206
+1816,3/26/2025,Smartphone,Electronics,23752,2,Hyderabad,Debit Card,47504
+1817,3/27/2025,T-shirt,Electronics,15761,4,Chennai,Cash on Delivery,63044
+1818,3/28/2025,T-shirt,Accessories,1931,2,Pune,UPI,3862
+1819,3/29/2025,Laptop,Electronics,9567,1,Mumbai,UPI,9567
+1820,3/30/2025,Headphones,Accessories,37981,4,Mumbai,Credit Card,151924
+1821,3/31/2025,Speaker,Accessories,27537,4,Bangalore,UPI,110148
+1822,4/1/2025,Tablet,Fashion,10057,2,Bangalore,UPI,20114
+1823,4/2/2025,Watch,Fashion,9935,1,Mumbai,Cash on Delivery,9935
+1824,4/3/2025,Backpack,Fashion,38266,4,Chennai,Cash on Delivery,153064
+1825,4/4/2025,Shoes,Accessories,662,3,Hyderabad,Debit Card,1986
+1826,4/5/2025,Speaker,Fashion,35242,4,Mumbai,Credit Card,140968
+1827,4/6/2025,Smartphone,Electronics,20175,2,Delhi,Cash on Delivery,40350
+1828,4/7/2025,T-shirt,Electronics,8961,1,Pune,UPI,8961
+1829,4/8/2025,Backpack,Accessories,17515,2,Hyderabad,Debit Card,35030
+1830,4/9/2025,Watch,Accessories,33091,3,Delhi,Cash on Delivery,99273
+1831,4/10/2025,Tablet,Fashion,28547,3,Hyderabad,Credit Card,85641
+1832,4/11/2025,Laptop,Accessories,35282,3,Delhi,Credit Card,105846
+1833,4/12/2025,Watch,Accessories,10333,2,Pune,Debit Card,20666
+1834,4/13/2025,Backpack,Electronics,8396,4,Pune,Debit Card,33584
+1835,4/14/2025,Watch,Electronics,33472,2,Bangalore,Debit Card,66944
+1836,4/15/2025,Backpack,Fashion,42300,1,Chennai,Debit Card,42300
+1837,4/16/2025,Backpack,Accessories,31008,4,Delhi,Debit Card,124032
+1838,4/17/2025,Camera,Accessories,5847,3,Bangalore,UPI,17541
+1839,4/18/2025,Shoes,Electronics,30814,2,Delhi,UPI,61628
+1840,4/19/2025,T-shirt,Accessories,3143,3,Bangalore,Cash on Delivery,9429
+1841,4/20/2025,Camera,Electronics,41285,3,Pune,Credit Card,123855
+1842,4/21/2025,Tablet,Fashion,19181,1,Hyderabad,UPI,19181
+1843,4/22/2025,Camera,Electronics,38828,4,Bangalore,UPI,155312
+1844,4/23/2025,Headphones,Accessories,16392,1,Delhi,UPI,16392
+1845,4/24/2025,Headphones,Fashion,47799,1,Delhi,Cash on Delivery,47799
+1846,4/25/2025,T-shirt,Electronics,17573,1,Chennai,Debit Card,17573
+1847,4/26/2025,Watch,Electronics,37268,3,Pune,Cash on Delivery,111804
+1848,4/27/2025,Shoes,Fashion,31182,1,Delhi,Credit Card,31182
+1849,4/28/2025,T-shirt,Fashion,32762,1,Mumbai,Credit Card,32762
+1850,4/29/2025,Backpack,Electronics,31858,4,Hyderabad,Credit Card,127432
+1851,4/30/2025,Smartphone,Accessories,14789,4,Bangalore,Credit Card,59156
+1852,5/1/2025,Shoes,Electronics,8427,1,Chennai,UPI,8427
+1853,5/2/2025,Shoes,Fashion,48830,4,Hyderabad,UPI,195320
+1854,5/3/2025,Backpack,Electronics,1671,4,Pune,Cash on Delivery,6684
+1855,5/4/2025,Backpack,Fashion,12418,1,Chennai,Debit Card,12418
+1856,5/5/2025,Laptop,Fashion,42403,3,Bangalore,Credit Card,127209
+1857,5/6/2025,T-shirt,Accessories,39610,1,Bangalore,Cash on Delivery,39610
+1858,5/7/2025,Backpack,Fashion,12429,4,Mumbai,UPI,49716
+1859,5/8/2025,Headphones,Fashion,3039,3,Pune,UPI,9117
+1860,5/9/2025,Tablet,Accessories,37227,2,Chennai,Debit Card,74454
+1861,5/10/2025,Smartphone,Fashion,46451,3,Chennai,Debit Card,139353
+1862,5/11/2025,T-shirt,Accessories,23169,4,Delhi,Debit Card,92676
+1863,5/12/2025,Speaker,Accessories,5932,3,Mumbai,Cash on Delivery,17796
+1864,5/13/2025,Headphones,Fashion,21144,1,Mumbai,UPI,21144
+1865,5/14/2025,Watch,Fashion,19245,2,Chennai,UPI,38490
+1866,5/15/2025,Backpack,Electronics,28728,2,Chennai,Debit Card,57456
+1867,5/16/2025,Speaker,Accessories,35021,2,Hyderabad,Credit Card,70042
+1868,5/17/2025,Backpack,Electronics,32203,4,Hyderabad,Debit Card,128812
+1869,5/18/2025,Shoes,Fashion,27428,4,Hyderabad,Cash on Delivery,109712
+1870,5/19/2025,Headphones,Electronics,18822,2,Mumbai,Debit Card,37644
+1871,5/20/2025,Shoes,Accessories,22860,3,Delhi,Debit Card,68580
+1872,5/21/2025,Laptop,Electronics,29555,2,Bangalore,Cash on Delivery,59110
+1873,5/22/2025,Shoes,Accessories,43391,3,Hyderabad,Debit Card,130173
+1874,5/23/2025,Laptop,Fashion,16876,3,Delhi,UPI,50628
+1875,5/24/2025,Laptop,Fashion,7088,4,Pune,Credit Card,28352
+1876,5/25/2025,Speaker,Accessories,25500,3,Hyderabad,Debit Card,76500
+1877,5/26/2025,Backpack,Fashion,6804,2,Bangalore,Cash on Delivery,13608
+1878,5/27/2025,Watch,Fashion,7845,4,Pune,Credit Card,31380
+1879,5/28/2025,Shoes,Fashion,29800,1,Pune,Cash on Delivery,29800
+1880,5/29/2025,Headphones,Fashion,24759,1,Bangalore,Credit Card,24759
+1881,5/30/2025,Laptop,Accessories,25970,4,Hyderabad,Credit Card,103880
+1882,5/31/2025,Backpack,Electronics,23517,2,Mumbai,Debit Card,47034
+1883,6/1/2025,Smartphone,Electronics,15852,1,Bangalore,UPI,15852
+1884,6/2/2025,T-shirt,Fashion,33865,1,Bangalore,Debit Card,33865
+1885,6/3/2025,Speaker,Electronics,19946,3,Bangalore,Cash on Delivery,59838
+1886,6/4/2025,Watch,Electronics,2836,3,Pune,Cash on Delivery,8508
+1887,6/5/2025,Camera,Fashion,10379,2,Delhi,Credit Card,20758
+1888,6/6/2025,Speaker,Fashion,32816,4,Mumbai,Credit Card,131264
+1889,6/7/2025,Smartphone,Electronics,33840,2,Hyderabad,UPI,67680
+1890,6/8/2025,T-shirt,Accessories,8021,4,Hyderabad,Debit Card,32084
+1891,6/9/2025,Smartphone,Fashion,6671,1,Delhi,Cash on Delivery,6671
+1892,6/10/2025,Shoes,Accessories,23981,3,Bangalore,Credit Card,71943
+1893,6/11/2025,Laptop,Electronics,18974,2,Mumbai,UPI,37948
+1894,6/12/2025,Watch,Fashion,47260,2,Hyderabad,Cash on Delivery,94520
+1895,6/13/2025,Tablet,Accessories,45129,4,Chennai,Credit Card,180516
+1896,6/14/2025,Laptop,Fashion,45732,4,Hyderabad,Cash on Delivery,182928
+1897,6/15/2025,Tablet,Electronics,21508,2,Bangalore,UPI,43016
+1898,6/16/2025,T-shirt,Accessories,2133,4,Chennai,UPI,8532
+1899,6/17/2025,Backpack,Electronics,12985,2,Delhi,Cash on Delivery,25970
+1900,6/18/2025,Camera,Electronics,44117,2,Mumbai,Debit Card,88234
+1901,6/19/2025,Headphones,Fashion,4148,2,Delhi,Cash on Delivery,8296
+1902,6/20/2025,Laptop,Accessories,48445,1,Delhi,Credit Card,48445
+1903,6/21/2025,Watch,Electronics,13640,4,Mumbai,Debit Card,54560
+1904,6/22/2025,Smartphone,Electronics,18421,3,Mumbai,Credit Card,55263
+1905,6/23/2025,Watch,Accessories,14857,3,Hyderabad,Cash on Delivery,44571
+1906,6/24/2025,T-shirt,Electronics,46636,4,Hyderabad,Debit Card,186544
+1907,6/25/2025,Tablet,Electronics,3637,2,Mumbai,Credit Card,7274
+1908,6/26/2025,Smartphone,Accessories,597,3,Chennai,Cash on Delivery,1791
+1909,6/27/2025,Headphones,Accessories,11907,3,Pune,Cash on Delivery,35721
+1910,6/28/2025,Headphones,Accessories,31075,4,Hyderabad,Debit Card,124300
+1911,6/29/2025,Laptop,Accessories,13222,3,Pune,Cash on Delivery,39666
+1912,6/30/2025,T-shirt,Fashion,13424,2,Chennai,UPI,26848
+1913,7/1/2025,Backpack,Accessories,4250,4,Mumbai,Credit Card,17000
+1914,7/2/2025,T-shirt,Fashion,28233,2,Chennai,Credit Card,56466
+1915,7/3/2025,Tablet,Fashion,9035,3,Hyderabad,Cash on Delivery,27105
+1916,7/4/2025,Watch,Fashion,24987,3,Delhi,Cash on Delivery,74961
+1917,7/5/2025,Headphones,Electronics,31151,2,Mumbai,UPI,62302
+1918,7/6/2025,Watch,Fashion,5166,1,Bangalore,Debit Card,5166
+1919,7/7/2025,Watch,Fashion,49277,3,Pune,Cash on Delivery,147831
+1920,7/8/2025,Watch,Electronics,17494,1,Chennai,Cash on Delivery,17494
+1921,7/9/2025,Headphones,Electronics,2227,3,Mumbai,Cash on Delivery,6681
+1922,7/10/2025,Speaker,Electronics,35122,1,Chennai,Cash on Delivery,35122
+1923,7/11/2025,Shoes,Accessories,11300,1,Mumbai,Credit Card,11300
+1924,7/12/2025,Tablet,Electronics,38323,1,Hyderabad,Cash on Delivery,38323
+1925,7/13/2025,Speaker,Electronics,43539,2,Hyderabad,Credit Card,87078
+1926,7/14/2025,Tablet,Fashion,19208,1,Hyderabad,Cash on Delivery,19208
+1927,7/15/2025,Smartphone,Electronics,13319,1,Chennai,Debit Card,13319
+1928,7/16/2025,T-shirt,Accessories,9869,1,Bangalore,UPI,9869
+1929,7/17/2025,T-shirt,Electronics,9783,3,Hyderabad,Debit Card,29349
+1930,7/18/2025,Camera,Accessories,31073,1,Mumbai,Cash on Delivery,31073
+1931,7/19/2025,T-shirt,Electronics,13671,3,Hyderabad,Cash on Delivery,41013
+1932,7/20/2025,Headphones,Electronics,31433,1,Delhi,Cash on Delivery,31433
+1933,7/21/2025,Backpack,Electronics,6274,1,Hyderabad,Debit Card,6274
+1934,7/22/2025,Laptop,Electronics,7019,2,Chennai,Cash on Delivery,14038
+1935,7/23/2025,Camera,Accessories,11483,3,Bangalore,Debit Card,34449
+1936,7/24/2025,Laptop,Accessories,31432,1,Delhi,Credit Card,31432
+1937,7/25/2025,Tablet,Fashion,31298,3,Chennai,UPI,93894
+1938,7/26/2025,Laptop,Accessories,18633,3,Chennai,UPI,55899
+1939,7/27/2025,Laptop,Electronics,15439,4,Chennai,Debit Card,61756
+1940,7/28/2025,Camera,Fashion,1281,2,Mumbai,Credit Card,2562
+1941,7/29/2025,Smartphone,Fashion,49550,2,Chennai,Debit Card,99100
+1942,7/30/2025,Watch,Fashion,28124,2,Mumbai,Credit Card,56248
+1943,7/31/2025,T-shirt,Electronics,7323,4,Chennai,Cash on Delivery,29292
+1944,8/1/2025,T-shirt,Accessories,18989,4,Pune,Credit Card,75956
+1945,8/2/2025,Headphones,Electronics,40461,2,Delhi,Credit Card,80922
+1946,8/3/2025,Camera,Fashion,29618,4,Pune,Credit Card,118472
+1947,8/4/2025,Headphones,Electronics,35381,4,Chennai,UPI,141524
+1948,8/5/2025,Backpack,Electronics,16780,4,Delhi,Credit Card,67120
+1949,8/6/2025,Backpack,Accessories,22763,2,Delhi,Cash on Delivery,45526
+1950,8/7/2025,Headphones,Accessories,14065,2,Bangalore,Cash on Delivery,28130
+1951,8/8/2025,Camera,Fashion,20854,2,Pune,Cash on Delivery,41708
+1952,8/9/2025,Headphones,Electronics,43451,4,Bangalore,Credit Card,173804
+1953,8/10/2025,T-shirt,Electronics,26143,2,Delhi,Debit Card,52286
+1954,8/11/2025,Speaker,Accessories,24148,4,Mumbai,Debit Card,96592
+1955,8/12/2025,Shoes,Electronics,42471,1,Delhi,Cash on Delivery,42471
+1956,8/13/2025,Laptop,Electronics,19158,4,Bangalore,UPI,76632
+1957,8/14/2025,Shoes,Electronics,21753,3,Pune,Debit Card,65259
+1958,8/15/2025,Camera,Accessories,49063,2,Chennai,Credit Card,98126
+1959,8/16/2025,Shoes,Fashion,26890,2,Chennai,Debit Card,53780
+1960,8/17/2025,Backpack,Fashion,23628,3,Pune,Cash on Delivery,70884
+1961,8/18/2025,Tablet,Electronics,13989,4,Chennai,UPI,55956
+1962,8/19/2025,Laptop,Fashion,38814,1,Chennai,Debit Card,38814
+1963,8/20/2025,Watch,Accessories,33158,3,Bangalore,Debit Card,99474
+1964,8/21/2025,Camera,Accessories,7352,3,Pune,Cash on Delivery,22056
+1965,8/22/2025,Laptop,Fashion,29950,4,Hyderabad,UPI,119800
+1966,8/23/2025,Shoes,Fashion,3051,2,Mumbai,UPI,6102
+1967,8/24/2025,Backpack,Electronics,6911,4,Mumbai,Cash on Delivery,27644
+1968,8/25/2025,Smartphone,Fashion,49659,3,Chennai,Credit Card,148977
+1969,8/26/2025,Speaker,Electronics,33743,3,Mumbai,Debit Card,101229
+1970,8/27/2025,Watch,Electronics,22300,2,Pune,Credit Card,44600
+1971,8/28/2025,Speaker,Accessories,10903,2,Pune,Debit Card,21806
+1972,8/29/2025,Laptop,Accessories,7739,2,Delhi,Debit Card,15478
+1973,8/30/2025,Backpack,Accessories,7210,4,Delhi,Credit Card,28840
+1974,8/31/2025,Backpack,Accessories,21884,2,Mumbai,Cash on Delivery,43768
+1975,9/1/2025,Shoes,Fashion,21538,3,Hyderabad,Cash on Delivery,64614
+1976,9/2/2025,T-shirt,Accessories,41346,3,Delhi,Debit Card,124038
+1977,9/3/2025,Shoes,Fashion,22947,1,Delhi,Cash on Delivery,22947
+1978,9/4/2025,T-shirt,Accessories,2785,4,Pune,Debit Card,11140
+1979,9/5/2025,T-shirt,Fashion,38491,1,Hyderabad,Cash on Delivery,38491
+1980,9/6/2025,Watch,Electronics,14021,3,Chennai,Debit Card,42063
+1981,9/7/2025,Shoes,Fashion,48157,1,Mumbai,Cash on Delivery,48157
+1982,9/8/2025,Smartphone,Fashion,7471,3,Delhi,UPI,22413
+1983,9/9/2025,Headphones,Accessories,29639,1,Hyderabad,Credit Card,29639
+1984,9/10/2025,Headphones,Fashion,20409,2,Hyderabad,UPI,40818
+1985,9/11/2025,Shoes,Electronics,12031,1,Mumbai,Credit Card,12031
+1986,9/12/2025,Shoes,Electronics,15221,2,Hyderabad,Credit Card,30442
+1987,9/13/2025,Speaker,Accessories,19706,2,Hyderabad,Debit Card,39412
+1988,9/14/2025,Watch,Electronics,38211,4,Hyderabad,Credit Card,152844
+1989,9/15/2025,Shoes,Fashion,7030,2,Delhi,UPI,14060
+1990,9/16/2025,Speaker,Electronics,11616,2,Mumbai,UPI,23232
+1991,9/17/2025,T-shirt,Accessories,758,1,Hyderabad,Cash on Delivery,758
+1992,9/18/2025,Backpack,Fashion,782,3,Hyderabad,UPI,2346
+1993,9/19/2025,Backpack,Accessories,14437,4,Delhi,Cash on Delivery,57748
+1994,9/20/2025,T-shirt,Fashion,2398,2,Mumbai,Credit Card,4796
+1995,9/21/2025,Camera,Electronics,4635,4,Pune,UPI,18540
+1996,9/22/2025,Speaker,Accessories,7129,1,Delhi,Credit Card,7129
+1997,9/23/2025,Speaker,Accessories,44436,2,Mumbai,UPI,88872
+1998,9/24/2025,T-shirt,Fashion,20084,1,Hyderabad,UPI,20084
+1999,9/25/2025,Smartphone,Accessories,24051,4,Mumbai,Cash on Delivery,96204
+2000,9/26/2025,Tablet,Fashion,33880,1,Mumbai,Credit Card,33880
