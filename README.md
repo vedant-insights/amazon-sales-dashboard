@@ -34,4 +34,4 @@ Developed an interactive dashboard to support business decision-making.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](your-image-name.png)
+![Dashboard](Amazon.png)
